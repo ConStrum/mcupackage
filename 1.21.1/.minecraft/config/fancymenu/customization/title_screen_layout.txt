@@ -54,7 +54,7 @@ element {
 
 element {
   interactable = true
-  source = Minecraft 1.21.1%n%Fabric 0.16.5%n%MCU Alpha-0.1.2
+  source = Minecraft 1.21.1%n%Fabric 0.16.5%n%MCU 7 Alpha-0.1.3
   source_mode = direct
   shadow = true
   scale = 1.0
