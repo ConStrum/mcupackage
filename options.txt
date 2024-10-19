@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","fabric","file/mcu7_custom_textures.zip","file/Immersive§0_§fInterfaces§0.zip","file/Recreated_medieval_containers_v0.4.zip"]

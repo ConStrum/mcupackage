@@ -1,1 +1,0 @@
-resourcePacks:["vanilla","fabric","file/mcu7_custom_textures.zip"]
